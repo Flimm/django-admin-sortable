@@ -37,7 +37,7 @@ django-admin-sortable 1.7.1 and higher are compatible with Python 3.
 Download django-admin-sortable from [source](https://github.com/iambrandontaylor/django-admin-sortable/archive/master.zip)
 
 1. Unzip the directory and cd into the uncompressed project directory
-2. * Optional: Enable your virtualenv
+2. Optional: Enable your virtualenv
 3. Run `$ python setup.py install` or add `adminsortable` to your PYTHONPATH.
 
 
