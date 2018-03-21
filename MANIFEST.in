@@ -1,4 +1,7 @@
 recursive-include adminsortable/static *
 recursive-include adminsortable/templates *
 recursive-include adminsortable/locale *
+include README.rst
+include COPYRIGHT
+include AUTHORS
 prune sample_project
