@@ -1,9 +1,6 @@
 from setuptools import setup, find_packages
 
-try:
-    README = open('README.rst').read()
-except:
-    README = None
+README = open('README.rst', 'rb').read().decode('UTF-8')
 
 setup(
     author='Brandon Taylor',
